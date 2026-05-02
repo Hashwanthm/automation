@@ -1,0 +1,38 @@
+
+> paysheet-automation-ui@1.0.0 dev
+> vite --host 0.0.0.0 --host 127.0.0.1
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m3991[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5175[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m5:16:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m5:17:50 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m5:22:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m5:26:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m5:30:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m5:35:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/style.css[22m
+[2m5:36:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m5:43:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m5:48:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m5:48:52 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:01:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:02:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:05:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:05:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:09:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:13:42 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:14:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:17:09 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:17:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:17:54 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:19:54 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:25:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:27:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:28:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:33:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:34:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
+[2m6:37:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/script.jsx, /style.css[22m
